@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SkyNet-NotAI
+- 👀 I’m interested in native IOS development
+- 🌱 I’m currently learning Objective-C and Swift
